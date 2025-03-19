@@ -1,5 +1,11 @@
 <h2 align="left">Hi, i'm Amanda Machado  !</h2>
 
+<h>Olá, sou Amanda Machado, estudante de Sistemas de Informação na UFRA e estagiária de TI no Banpará. Tenho experiência em suporte técnico e solução de problemas, adquirida por meio de estágios na Fundação Parápaz e Fundação Cultural do Pará.
+
+Ultimamente, tenho me aprofundado mais em Segurança Cibernética, uma área que me fascina cada vez mais. Concluí o Certificado Google Cybersecurity, desenvolvendo habilidades como identificação de ameaças, gerenciamento de riscos e vulnerabilidades, resposta a incidentes e frameworks e controles de segurança. Também adquiri experiência prática com Linux, SQL, SIEM e Python.
+
+Acredito que a troca de experiências é essencial para o crescimento profissional. Se você está procurando um profissional apaixonado por Segurança Cibernética, que valoriza o compartilhamento de conhecimento e a colaboração, estou aberta para me conectar. </h>
+
 ###
 
 <div align="left">
@@ -37,9 +43,9 @@
 
 <div align="left">
   <a href="www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
