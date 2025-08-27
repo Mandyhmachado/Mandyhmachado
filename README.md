@@ -12,7 +12,7 @@ Acredito que a troca de experiências é essencial para o crescimento profission
 
 <div align="left">
   <a href="https://www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   </a>
 </div>
