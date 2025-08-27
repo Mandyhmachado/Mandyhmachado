@@ -11,9 +11,9 @@ Acredito que a troca de experiências é essencial para o crescimento profission
 ---
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
+<a href="https://www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
+  <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
 </div>
 
 
