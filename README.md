@@ -6,18 +6,27 @@ Ultimamente, tenho me aprofundado mais em Segurança Cibernética, uma área que
 
 Acredito que a troca de experiências é essencial para o crescimento profissional. Se você está procurando um profissional apaixonado por Segurança Cibernética, que valoriza o compartilhamento de conhecimento e a colaboração, estou aberta para me conectar. </h>
 
+<h2 align="left">Contato</h2>
+
+
+
 ###
 
 
-<h2 align="left">Contato</h2>
-
----
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
-    <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
+
+  <a href="www.linkedin.com/in/amanda-machado-a78b43215" target="_blank">
+
+    <img src="https://raw.githubusercontent.com/Mandyhmachado/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+
+
+
+
+
+###
+
+
 
 <h2 align="left">Tecnologias</h2>
 
